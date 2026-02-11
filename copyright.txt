@@ -1,0 +1,35 @@
+Copyright (c) [YEAR] [COPYRIGHT HOLDER / AUTHOR NAME]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+SUBJECT STRICTLY TO THE CONDITIONS BELOW:
+
+CONDITION OF USE — USER RESPONSIBILITY:
+By using, copying, modifying, compiling, distributing, or otherwise interacting
+with the Software, you (“User”) acknowledge and agree that (i) you are solely
+responsible for any outcomes, decisions, actions, losses, damages, claims,
+liabilities, costs, or expenses arising from your use of the Software,
+including but not limited to errors, misconfiguration, misuse, or failure to
+follow instructions; and (ii) the Software is provided and may be used ONLY
+under this allocation of responsibility to the User.
+
+DISCLAIMER OF WARRANTY:
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+LIMITATION OF LIABILITY / INDEMNITY:
+To the maximum extent permitted by applicable law, User agrees to defend,
+indemnify, and hold harmless the authors and copyright holders from and against
+any and all claims, damages, losses, liabilities, penalties, fines, costs, and
+expenses (including reasonable attorneys’ fees) arising out of or related to
+User’s use, distribution, or modification of the Software.
+
+If you do not agree to these terms, you must not use, copy, modify, compile,
+distribute, or otherwise interact with the Software.
